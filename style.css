@@ -3,3 +3,9 @@
     padding: 0;
     font-family: sans-serif;
 }
+
+div {
+    background: url("image.png") no-repeat center;
+    background-size: cover;
+    height: 100vh;
+}
